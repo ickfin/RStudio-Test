@@ -29,7 +29,17 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+## Adding Text and Code
+
+I think I can add text here and it will show up in the pdf. 
+
 ```{r hello world}
-print("Hello World!")
+print("Hello World! I think I can add code here (in this case, a print function).")
 ```
 
+## Bullet List
+
+Here are the bullets  
+- First bullet  
+- Second bullet  
+- Third bullet  
